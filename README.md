@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Wadhwa</h1>
 <h3 align="center">A Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Mohit-dev01/Mohit-dev01/assets/104097047/07efc859-fb3a-46aa-a1ba-f1c8047312fa
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Mohit-dev01/Mohit-dev01/assets/104097047/3ef1687a-7f98-45ea-abfb-75f021094f76)
+
 "/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitdev-01&label=Profile%20views&color=0e75b6&style=flat" alt="mohitdev-01" /> </p>
